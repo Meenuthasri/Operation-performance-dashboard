@@ -65,6 +65,12 @@ Processed - Received
 
 # Operation Performance Analyst – Business Insight Report
 
+Processed - Received
+48,297 - 48,290
+= +7 Cases
+
+# Operation Performance Analyst – Business Insight Report
+
 ## 1. Executive Summary
 
 The **Operation Performance Analyst Dashboard** provides management with a consolidated view of:
@@ -641,5 +647,7 @@ However, the approximately 10% audit error rate indicates an opportunity to impr
 The negative Average TAT is the most important data-quality issue identified in the dashboard and should be validated before management uses TAT as a performance indicator.
 
 19. Overall Management Message
+
+Operational throughput is broadly stable, but management should focus on reducing audit errors, validating TAT calculations, optimizing chargeable utilization, and using employee-level error-rate analysis to drive targeted performance improvement.
 
 Operational throughput is broadly stable, but management should focus on reducing audit errors, validating TAT calculations, optimizing chargeable utilization, and using employee-level error-rate analysis to drive targeted performance improvement.
